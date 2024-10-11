@@ -1,0 +1,28 @@
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.exe.config
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.exe.manifest
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.application
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.exe
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.pdb
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\obj\Release\QKP Robot Controller.csproj.AssemblyReference.cache
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.QKPRobotGUI.resources
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.Properties.Resources.resources
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\obj\Release\QKP Robot Controller.csproj.GenerateResource.cache
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\obj\Release\QKP Robot Controller.csproj.CoreCompileInputs.cache
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.exe.manifest
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.application
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.exe
+H:\My Drive\Seattle Ultrasonics\Software\Choppenheimer\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.pdb
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\obj\Release\QKP Robot Controller.csproj.AssemblyReference.cache
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.QKPRobotGUI.resources
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.Properties.Resources.resources
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\obj\Release\QKP Robot Controller.csproj.GenerateResource.cache
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\obj\Release\QKP Robot Controller.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.exe
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.pdb
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.exe.config
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.exe.manifest
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.application
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.exe
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\bin\Release\QKPRobot.pdb
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.exe.manifest
+C:\Users\scott\Documents\Visual Studio 2022\Quantified Knife Project Robot Controller\obj\Release\QKPRobot.application

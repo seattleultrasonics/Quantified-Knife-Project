@@ -1,0 +1,28 @@
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.csproj.AssemblyReference.cache
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur_Controller.ExcaliburGUI.resources
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur_Controller.Properties.Resources.resources
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.csproj.GenerateResource.cache
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.csproj.CoreCompileInputs.cache
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.exe.config
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.exe.manifest
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.application
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.exe
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.pdb
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.exe.manifest
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.application
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.exe
+G:\My Drive\New Venture\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.pdb
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.exe.config
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.exe.manifest
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.application
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.exe
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\bin\Debug\Excalibur Controller.pdb
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.csproj.AssemblyReference.cache
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur_Controller.ExcaliburGUI.resources
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur_Controller.Properties.Resources.resources
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.csproj.GenerateResource.cache
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.csproj.CoreCompileInputs.cache
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.exe.manifest
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.application
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.exe
+H:\My Drive\Seattle Ultrasonics\Software\Excalibur Interface\Excalibur Controller\Excalibur Controller\obj\Debug\Excalibur Controller.pdb
